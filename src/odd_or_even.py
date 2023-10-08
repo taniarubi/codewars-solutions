@@ -17,7 +17,6 @@ Input: [0, -1, -5]
 Output: "even"
 Have fun!
 '''
-
 def odd_or_even(arr):
     sum = 0
     
